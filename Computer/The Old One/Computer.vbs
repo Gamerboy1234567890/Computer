@@ -1,0 +1,1 @@
+X=MsgBox("Falled To Open Computer.",0+16,"Computer Falled")
